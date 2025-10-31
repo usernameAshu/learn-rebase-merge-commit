@@ -1,1 +1,1 @@
-File A: This is the content of file A.
+File A: This is conflicting commits the content of file A.

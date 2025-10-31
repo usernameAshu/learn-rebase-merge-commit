@@ -1,1 +1,1 @@
-File N: This is the content of file N.
+File N: conflicting commits from merge This is the content of file N.

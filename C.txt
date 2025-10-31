@@ -1,0 +1,1 @@
+File C: This is the content of file C.
